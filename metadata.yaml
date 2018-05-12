@@ -27,6 +27,8 @@ creator:
     - http://www.alettajacobs.org/home.html
     - http://nl.wikipedia.org/wiki/Aletta_Jacobs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29507#Reisbrieven-uit-Afrika-en-Azi-benevens-eenige-brieven-uit-Zweden-en-Noorwegen
 gutenberg_issued: '2009-07-25'
 gutenberg_type: Text
 identifiers:
